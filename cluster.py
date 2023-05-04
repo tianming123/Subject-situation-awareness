@@ -181,6 +181,9 @@ class DbscanClustering(object):
                 result[label_idx].append(text_idx)
         return result
 
+def function1():
+    pass
+
 if __name__ == '__main__':
 
     cluster = Cluster()
