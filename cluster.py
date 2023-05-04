@@ -182,7 +182,7 @@ class DbscanClustering(object):
         return result
 
 def function1():
-    pass
+    return 0
 
 if __name__ == '__main__':
 
