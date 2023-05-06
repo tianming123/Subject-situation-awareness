@@ -1,3 +1,3 @@
 import nltk
-import numpy
+import numpy as np
 nltk.download('punkt')
